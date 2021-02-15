@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class OlaMundo {
   public static void Main (string[] args) {
     Console.WriteLine ("Hello World");
   }

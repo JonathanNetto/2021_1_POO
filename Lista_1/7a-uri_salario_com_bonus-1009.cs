@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class Bonus {
   public static void Main (string[] args) {
     string nome = Console.ReadLine();
     double salario = double.Parse(Console.ReadLine());

@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class Retangulo {
   public static void Main (string[] args) {
     Console.WriteLine("Digite a base a altura do retângulo");
     double b = int.Parse(Console.ReadLine());

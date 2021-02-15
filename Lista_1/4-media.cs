@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class Media {
   public static void Main (string[] args) {
     Console.WriteLine("Digite a nota do primeiro bimestre da disciplina:");
     int nota_1 = int.Parse(Console.ReadLine());

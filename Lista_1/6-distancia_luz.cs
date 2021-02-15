@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class Distancia {
   public static void Main (string[] args) {
     Console.WriteLine("Digite o intervalo de tempo no formato \"HH:MM:SS\"");
     string [] hms = Console.ReadLine().Split(':');

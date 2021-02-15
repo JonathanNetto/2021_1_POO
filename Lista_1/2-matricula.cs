@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class Matricula {
   public static void Main (string[] args) {
     Console.WriteLine("20201014040021");
   }

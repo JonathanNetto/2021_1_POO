@@ -1,6 +1,6 @@
 using System;
 
-class MainClass {
+class Nome {
   public static void Main (string[] args) {
     Console.WriteLine("Jonathan");
   }
