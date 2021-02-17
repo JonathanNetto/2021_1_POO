@@ -15,6 +15,5 @@ class Media {
     Console.WriteLine();
     
     Console.WriteLine($"Média parcial = {media_parcial}"); 
-
   }
 }
