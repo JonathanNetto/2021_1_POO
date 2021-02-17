@@ -17,6 +17,5 @@ class Distancia {
     Console.WriteLine();
 
     Console.WriteLine($"A luz percorreu {dis_luz} km nesse intervalo");
-
   }
 }
