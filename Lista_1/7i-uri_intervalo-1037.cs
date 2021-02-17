@@ -28,6 +28,5 @@ class Intervalo {
       {
         Console.WriteLine("Fora de intervalo");
       }
-
   }
 }
