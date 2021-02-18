@@ -9,8 +9,11 @@ class Sequencia {
     int d = int.Parse(cartas[3]);
     int e = int.Parse(cartas[4]);
 
-    if (a<b && b<c && c<d && d<e) Console.WriteLine("C");
-    else if (a>b && b>c && c>d && d>e) Console.WriteLine("D");
-    else Console.WriteLine("N");
+    if (a<b && b<c && c<d && d<e) 
+      Console.WriteLine("C");
+    else if (a>b && b>c && c>d && d>e) 
+      Console.WriteLine("D");
+    else 
+      Console.WriteLine("N");
   }
 }    
