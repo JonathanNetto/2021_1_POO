@@ -25,7 +25,6 @@ class SomaImpares {
         }
       }
       Console.WriteLine(s);
-      n --;
     }
     
 
